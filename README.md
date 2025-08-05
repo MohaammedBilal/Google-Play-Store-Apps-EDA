@@ -4,7 +4,7 @@ This repository contains an exploratory data analysis (EDA) of the Google Playst
 
 ## Table of Contents:
 
-- [About the Data]
+- [About the Data](#About-the-Data)
 - [Task](#task)
 - [Libraries Used](#libraries-used)
 - [Data Loading and Inspection](#data-loading-and-inspection)
